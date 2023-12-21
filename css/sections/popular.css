@@ -69,7 +69,7 @@
 }
 
 .popular-foods__button{
-    width: fit-content;
+    width: auto;
     margin: 80px auto 0;
     font-size: 18px;
     line-height: 23px;
@@ -92,7 +92,7 @@
     padding: 38px;
     min-width: 260px;
     background: rgba(255, 255, 255, 0.05);
-    height: fit-content;
+    height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
